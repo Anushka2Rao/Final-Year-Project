@@ -5,7 +5,7 @@ Please read this before cloning or downloading the project.
 
 # Contents of of the Repo
 
-The repo consists of two main things, the first thing is a folder containing the jupyter notebook that does the dataset analysis and machine learning models, and there is also the csv file used to do this part of the project. The second thing is the folder that contains the mobile application.
+The repo consists of two main things, the first thing is a folder containing the jupyter notebook that does the dataset analysis and machine learning models, and there is also the csv file used to do this part of the project. The second thing is the folder that contains the mobile application named Spectrum Minds.
 
 # Folder containg Jupyter Notebook
 
